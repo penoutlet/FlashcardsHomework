@@ -1,0 +1,23 @@
+{
+  "name": "FlashcardsHomework",
+  "version": "1.0.0",
+  "description": "Flashcards homework",
+  "main": "Flashcards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penoutlet/FlashcardsHomework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penoutlet/FlashcardsHomework/issues"
+  },
+  "homepage": "https://github.com/penoutlet/FlashcardsHomework#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
